@@ -1,4 +1,4 @@
-# CSCI 571 Courseworks
+# CSCI 571 Courseworks (Summer 2021)
 All homeworks link:
 https://qujq.github.io/asnfoa.html
 
